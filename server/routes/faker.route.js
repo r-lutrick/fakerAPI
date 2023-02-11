@@ -1,6 +1,5 @@
 // Route needs access to controller
 const FakerController = require('../controllers/faker.controller')
-const fakerModel = require('../models/faker.model')
 
 // URL routes/paths
 module.exports = (app) => {
